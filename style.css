@@ -1,0 +1,48 @@
+
+/* IMAGE_2025-04-25_17_04_40-removebg-preview 1 */
+#rd{
+position: absolute;
+width: 433px;
+height: 577px;
+left: -8px;
+top: 11px;
+background: url(IMAGE_2025-04-25_17_04_40-removebg-preview.png);
+}
+body{
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 962px;
+
+background: linear-gradient(180deg, #06164E 0%, #9EFDFF 28.85%, #FED0FF 72.12%, #91529E 100%);
+
+}
+/* Я Степан Бобылев. Мне 12 лет и я уже достиг */
+#fr{
+position: absolute;
+width: 1025px;
+left: 500px;
+top: -100px;
+font-style: normal;
+font-weight: 400;
+font-size: 138px;
+line-height: 161px;
+
+
+}
+
+
+/* успешного успеха создав самый популярный(нет) тг бот! */
+#sc{
+position: absolute;
+width: 1394px;
+left: 23px;
+top: 541px;
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 161px;
+
+
+}
